@@ -1,0 +1,13 @@
+
+    .blok {
+        width: 200px;
+        height: 200px;
+        background-color: rgb(0, 0, 0);
+        margin: auto;
+        transition: 500ms;
+    }
+
+    .blok:hover {
+        background-color: rgb(252, 252, 252);
+        width: 500px;
+    }
